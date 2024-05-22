@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @HEMA
-- 👀 I’m interested in  web development
-- 🌱 I’m currently learning  software skills
-- studying btech 1 st year in MOHAN BABU UNIVERSITY
-- 💞️ I’m looking to learn web development 
+- 👋 Hi, I’m @Hema
 - 📫 How to reach me through mail hematippineni4@gmail.com
 
 <!---
